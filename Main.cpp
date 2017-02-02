@@ -84,7 +84,7 @@ replay_label:
 
 void instructions()
 {
-	cout << "Welcome to TicTacToe.  Man vs. machine!" << endl;
+	cout << "Welcome to TicTacToe.  Man vs. machine!  This version has been uploaded to GitHub!" << endl;
 	cout << "To make a move, enter a number between 0 and 8, as displayed on the board below." << endl << endl;
 	cout << "\t0 | 1 | 2 \n";
 	cout << "\t---------\n";
